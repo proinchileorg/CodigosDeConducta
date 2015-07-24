@@ -27,3 +27,8 @@ La filosofía de la comunidad es aportar con recursos y gestiones a cada miembro
 
  La comunidad está dispuesta, tanto el staff de administradores como los mismos miembros, a apoyar y contestar todas sus dudas y consultas con temas de programación. No obstante, para poder ser más eficientes en responder a todas las consultas lo ideal es mantener cierto orden al publicar cada tema.
 
+5.- **Publicaciones Relacionadas con Sueldos y Problemas Laborales de Informática.**:
+
+Todo los post y sus respectivos comentarios respecto a temas de sueldos seran eliminados. Para esto existe una comunidad hermana llamda ["Informaticos Chile"](https://www.facebook.com/groups/chileinformaticos/). Si un usuario vuelve a hacer el mismo post sera baneado.
+
+

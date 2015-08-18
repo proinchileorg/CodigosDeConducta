@@ -62,4 +62,4 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
 
 Nota:
 
-> Sueldo es obligatorio ya sea un rango o un aproximado.
+> Sueldo es obligatorio ya sea un rango o un aproximado en caso de ser trabajo freelance agregar un rango o aproximado por hora.

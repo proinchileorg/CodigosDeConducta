@@ -19,15 +19,21 @@ No está permitido dentro de la comunidad SPAM y publicaciones alusivas a algún
 
 4.- **Publicaciones No Relacionadas con la temática de la Comunidad**:
 
-en relación al punto anterior, no se permitirá dentro de la comunidad alguna publicación que no esté dentro del ámbito de la programación, desarrollo, web, gestiones de servidores para el programador, etc.
+En relación al punto anterior, no se permitirá dentro de la comunidad alguna publicación que no esté dentro del ámbito de la programación, desarrollo, web, gestiones de servidores para el programador, etc.
 
 La filosofía de la comunidad es aportar con recursos y gestiones a cada miembro en los temas centrales antes mencionados, evitando masificar en otros temas que no tienen nada que ver con Programadores Chile y manteniendo así la misma comunidad libre de SPAM.
 
-5.- **Publicaciones Relacionadas con Consultas y Dudas**:
+5.- **Publicaciones Repetidas en la Comunidad**:
 
- La comunidad está dispuesta, tanto el staff de administradores como los mismos miembros, a apoyar y contestar todas sus dudas y consultas con temas de programación. No obstante, para poder ser más eficientes en responder a todas las consultas lo ideal es mantener cierto orden al publicar cada tema.
+Las preguntas repetidas detectadas por la misma comunidad o por el staff seran movidas al FAQ oficial en el siguiente link: https://github.com/programadoreschile/faq
 
-6.- **Publicaciones Relacionadas con Sueldos y Problemas Laborales de Informática.**:
+Preguntas añadidas al faq seran borradas en el grupo de facebook de forma de evitar duplicación de contenido que oculta otro tipo de post de los miembros.
+
+6.- **Publicaciones Relacionadas con Consultas y Dudas**:
+
+La comunidad está dispuesta, tanto el staff de administradores como los mismos miembros, a apoyar y contestar todas sus dudas y consultas con temas de programación. No obstante, para poder ser más eficientes en responder a todas las consultas lo ideal es mantener cierto orden al publicar cada tema.
+
+7.- **Publicaciones Relacionadas con Sueldos y Problemas Laborales de Informática.**:
 
 Todo los post y sus respectivos comentarios respecto a temas de sueldos seran eliminados. Para esto existe una comunidad hermana llamda ["Informaticos Chile"](https://www.facebook.com/groups/chileinformaticos/). Si un usuario vuelve a hacer el mismo post sera baneado.
 

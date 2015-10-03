@@ -1,40 +1,42 @@
-Normas y Pautas
+Manual de conducta y convivencia
 ======================
 
-Estas Reglas fueros diseñadas para darle una estructura a la comunidad con el fin de mantener un orden frente a la diversidad de temas que hoy estamos trabajando.
+Este manual de conducta fue diseñado para entregar una estructura básica con el fin de mantener un orden frente a la diversidad de temas, opiniones y personas que forman esa gran comunidad.
 
-**Listamos a continuación el detalle:**
+**Conductas de los administradores (Teams):**
 
-1.- **Normas de Convivencia**:
+1. Los Team se forman por números impares de 3 o 5 personas dependiendo de la herramienta.
 
-Se prohíben los insultos a los demás miembros de la comunidad, cualquier usuario que sea sorprendido ofendiendo a otro miembro será advertido si luego de la advertencia continua con el  actuar será **baneado** de la comunidad.
+2. Los administradores de cada herramienta no tiene injerencia sobre herramientas que no sea la suya a nivel de administrador.
 
-2.- **Publicaciones con el fin de comercialización de productos y/o servicios**:
+3. La única responsabilidad de los administradores es llevar al éxito de su herramienta.
 
-Se prohíbe estrictamente la publicación de ventas, subastas o pedidos de compras de productos variados. Cualquier publicación de este estilo será borrada sin previo aviso.
+4. Los usuarios pueden solicitar el cambio de un administrador, dando sus argumentos correspondientes. La resolución está a cargo de los miembros restantes del team de dicha herramienta.
 
-3.- **Publicidad y SPAM de algún grupo, producto y/o Servicio**:
+5. Los usuarios pueden entrar a una herramienta previa aprobación del Team.
 
-No está permitido dentro de la comunidad SPAM y publicaciones alusivas a algún otro grupo sin previo permiso de administradores debido a que el objetivo es mantener la comunidad funcionando en la estructura de apoyo y gestión a los distintos miembros con consultas y aportes en el ámbito que nos atañe. Publicaciones de este estilo serán borradas sin previo aviso a menos que haya una organización con el staff.
+6. En caso de discusiones, el Team General funcionará como intermediario.
 
-4.- **Publicaciones No Relacionadas con la temática de la Comunidad**:
+**Conductas de los usuarios (Comunidad):**
 
-En relación al punto anterior, no se permitirá dentro de la comunidad alguna publicación que no esté dentro del ámbito de la programación, desarrollo, web, gestiones de servidores para el programador, etc.
+1. Se prohíben los insultos a los demás miembros de la comunidad, cualquier usuario que sea sorprendido ofendiendo a otro será advertido. Si luego de la advertencia, continúa, éste será baneado de la comunidad.
 
-La filosofía de la comunidad es aportar con recursos y gestiones a cada miembro en los temas centrales antes mencionados, evitando masificar en otros temas que no tienen nada que ver con Programadores Chile y manteniendo así la misma comunidad libre de SPAM.
+2. La comunidad está dispuesta, tanto el staff de administradores como los mismos miembros, a apoyar y contestar todas sus dudas y consultas con temas de programación. No obstante, para poder ser más eficientes en responder a todas las consultas se debe seguir el formato indicado en el punto 3.
 
-5.- **Publicaciones Repetidas en la Comunidad**:
+3. Para el formato de las preguntas de programación se debe cumplir lo siguiente:
 
-Las preguntas repetidas detectadas por la misma comunidad o por el staff seran movidas al FAQ oficial en el siguiente link: https://github.com/programadoreschile/faq
+  1. Hacer alusión, mediante “hashtag (#)”, al lenguaje o Framework utilizado. No hay problema si se agregan hashtags adicionales, que ayuden a acotar más la temática de la pregunta. Ejemplo: “#RubyOnRails. Necesito ayuda con la gema #PaperClip”.
 
-Preguntas añadidas al faq seran borradas en el grupo de facebook de forma de evitar duplicación de contenido que oculta otro tipo de post de los miembros.
+  2. Si aplica, añadir un link a herramientas como gist, github, pastebin, codeshare, etc. 
 
-6.- **Publicaciones Relacionadas con Consultas y Dudas**:
+4. Las preguntas repetidas serán movidas al FAQ oficial. A los usuarios que hayan realizado esta pregunta se les pedirá que revisen el FAQ y la eliminen si es que es necesario. Además, en caso de existir un recurso con las mejores respuestas, éste se debe incluir como comentario en el Post.
 
-La comunidad está dispuesta, tanto el staff de administradores como los mismos miembros, a apoyar y contestar todas sus dudas y consultas con temas de programación. No obstante, para poder ser más eficientes en responder a todas las consultas lo ideal es mantener cierto orden al publicar cada tema.
+5. Se prohíbe estrictamente y puede ser borrado sin previo aviso:
 
-7.- **Publicaciones Relacionadas con Sueldos y Problemas Laborales de Informática.**:
+  1. La publicación de ventas, subastas o pedidos de compras de productos variados. 
 
-Todo los post y sus respectivos comentarios respecto a temas de sueldos seran eliminados. Para esto existe una comunidad hermana llamda ["Informaticos Chile"](https://www.facebook.com/groups/chileinformaticos/). Si un usuario vuelve a hacer el mismo post sera baneado.
+  2. El SPAM o publicaciones alusivas a otros grupos si éstas no aportan a la comunidad.
 
+  3. Publicaciones fuera del ámbito de la programación, desarrollo, web, gestiones de servidores para el programador, etc.
 
+  4. Publicaciones solicitando o compartiendo información protegida por derechos de autor.

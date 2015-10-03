@@ -3,20 +3,6 @@ Manual de conducta y convivencia
 
 Este manual de conducta fue diseñado para entregar una estructura básica con el fin de mantener un orden frente a la diversidad de temas, opiniones y personas que forman esa gran comunidad.
 
-**Conductas de los administradores (Teams):**
-
-1. Los Team se forman por números impares de 3 o 5 personas dependiendo de la herramienta.
-
-2. Los administradores de cada herramienta no tiene injerencia sobre herramientas que no sea la suya a nivel de administrador.
-
-3. La única responsabilidad de los administradores es llevar al éxito de su herramienta.
-
-4. Los usuarios pueden solicitar el cambio de un administrador, dando sus argumentos correspondientes. La resolución está a cargo de los miembros restantes del team de dicha herramienta.
-
-5. Los usuarios pueden entrar a una herramienta previa aprobación del Team.
-
-6. En caso de discusiones, el Team General funcionará como intermediario.
-
 **Conductas de los usuarios (Comunidad):**
 
 1. Se prohíben los insultos a los demás miembros de la comunidad, cualquier usuario que sea sorprendido ofendiendo a otro será advertido. Si luego de la advertencia, continúa, éste será baneado de la comunidad.
@@ -40,3 +26,17 @@ Este manual de conducta fue diseñado para entregar una estructura básica con e
   3. Publicaciones fuera del ámbito de la programación, desarrollo, web, gestiones de servidores para el programador, etc.
 
   4. Publicaciones solicitando o compartiendo información protegida por derechos de autor.
+
+**Conductas de los administradores (Teams):**
+
+1. Los Team se forman por números impares de 3 o 5 personas dependiendo de la herramienta.
+
+2. Los administradores de cada herramienta no tiene injerencia sobre herramientas que no sea la suya a nivel de administrador.
+
+3. La única responsabilidad de los administradores es llevar al éxito de su herramienta.
+
+4. Los usuarios pueden solicitar el cambio de un administrador, dando sus argumentos correspondientes. La resolución está a cargo de los miembros restantes del team de dicha herramienta.
+
+5. Los usuarios pueden entrar a una herramienta previa aprobación del Team.
+
+6. En caso de discusiones, el Team General funcionará como intermediario.

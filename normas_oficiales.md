@@ -13,7 +13,7 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
 
   1. Hacer alusión, mediante “hashtag (#)”, al lenguaje o Framework utilizado. No hay problema si se agregan hashtags adicionales que ayuden a acotar más la temática de la pregunta. Ejemplo: “#RubyOnRails. Necesito ayuda con la gema #PaperClip”.
 
-  2. Si aplica, añadir un link a herramientas como gist, github, pastebin, codeshare, etc. 
+  2. Si aplica, añadir un link a herramientas como: http://paste.ofcode.org/, http://codepaste.net/, http://pastie.org/, https://gist.github.com/, http://www.paste.org/porg/home, https://fiddles.io/, http://pastebin.com/, http://codeshare.io/ 
 
 4. Las preguntas repetidas serán movidas al FAQ oficial. A los usuarios que hayan realizado esta pregunta se les pedirá que revisen el FAQ y la eliminen si es que es necesario. Además, en caso de existir un recurso con las mejores respuestas, éste se debe incluir como comentario en el Post.
 

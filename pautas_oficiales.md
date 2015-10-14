@@ -1,4 +1,4 @@
-Para esto recomendamos la siguiente pauta
+Se debe usar la siguiente pauta
 ======
 
 **Publicaciones sobre Ofertas de Empleo**:

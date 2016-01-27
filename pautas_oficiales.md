@@ -5,11 +5,9 @@ Se debe usar la siguiente pauta
 
 Para poder llevar un orden en este tema y que se pueda contar con la mayor cantidad de datos, se debe utilizar en cada publicación de este tipo la siguiente pauta:
 
-**Pauta de Oferta Laboral**
+**Pauta de Oferta Laboral Contrato Empresa**
 
      Nombre empresa:
-
-     Resumen Introducción empresa (opcional):
 
      Puesto Ofrecido:
 
@@ -25,6 +23,20 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
 
      Tipo de contrato:
 
+
+**Pauta de Oferta Laboral Freelance**
+
+     Nombre empresa:
+
+     Perfil Requerido:
+
+     Presupuesto:
+
+     Fechas estimadas:
+
+     Descripcion de la necesidad :
+
 Nota:
 
-> Sueldo es obligatorio ya sea un rango o un aproximado en caso de ser trabajo freelance agregar un rango o aproximado por hora.
+> Sueldo es obligatorio ya sea un rango o un aproximado en caso de ser trabajo freelance favor agregar su presupuesto.
+> Pauta derechos reservados Comunidad Programadores e Informáticos Chile.

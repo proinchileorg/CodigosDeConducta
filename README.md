@@ -13,5 +13,11 @@ Normas y Pautas
 ----------
 
 
-[Programadores Chile](http://www.programadores.cl)
+Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://www.programadores.cl)
+
+**Comparte junto a nosotros:**
+
+ 1. Unete a nuestro [Grupo de facebook](https://www.facebook.com/groups/ProgramadoresCL/)
+ 2. Danos tu apoyo en nuestra [Fan Page](https://www.facebook.com/proinchile)
+ 3. Siguenos en nuestro [Twitter](https://twitter.com/)
 -

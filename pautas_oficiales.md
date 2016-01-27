@@ -34,7 +34,7 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
 
      Fechas estimadas:
 
-     Descripcion de la necesidad :
+     Descripcion del proyecto :
 
 Nota:
 

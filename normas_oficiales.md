@@ -40,3 +40,6 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
 5. Los usuarios pueden entrar a una herramienta previa aprobación del Team.
 
 6. En caso de discusiones, el Team General funcionará como intermediario.
+
+
+> Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://www.programadores.cl).

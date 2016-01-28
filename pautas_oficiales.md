@@ -39,4 +39,4 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
 Nota:
 
 > Sueldo es obligatorio ya sea un rango o un aproximado en caso de ser trabajo freelance favor agregar su presupuesto.
-> Pauta derechos reservados Comunidad Programadores e Informáticos Chile.
+> Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://www.programadores.cl).

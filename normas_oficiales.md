@@ -21,7 +21,7 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
 
   1. La publicación de ventas, subastas o pedidos de compras de productos variados. 
 
-  2. Publicación con SPAM o publicaciones alusivas a otros grupos si éstas no aportan a la comunidad.
+  2. Publicación con SPAM o post repetidos existiendo el anterior, publicaciones alusivas a otros grupos si éstas no aportan a la comunidad.
 
   3. Publicaciones fuera del ámbito de la programación, desarrollo, web, gestiones de servidores para el programador, etc.
 

@@ -26,6 +26,8 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
   3. Publicaciones fuera del ámbito de la programación, desarrollo, web, gestiones de servidores para el programador, etc.
 
   4. Publicaciones solicitando o compartiendo información protegida por derechos de autor.
+  
+  5. Publicaciones de enlaces externos como blog, sitios web o foros siempre y cuando estos solo sean link sin argumentación de porque se comparte el contenido, invitación a un debate o conversación o lleve a recursos ilegales. 
 
 **Conductas de los administradores (Teams):**
 

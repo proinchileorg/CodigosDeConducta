@@ -18,6 +18,8 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
      Horario:
 
      Ubicación:
+     
+     Remoto/Presencial:
 
      Beneficios que se entregarán:
 
@@ -31,6 +33,10 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
      Perfil Requerido:
 
      Fechas estimadas:
+     
+     Remoto/Presencial:
+     
+     Renta ofrecida por proyecto/por hora (aproximación):
 
      Descripcion del proyecto :
 

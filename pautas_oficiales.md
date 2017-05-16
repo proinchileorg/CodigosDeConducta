@@ -21,7 +21,7 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
      
      Remoto/Presencial:
 
-     Beneficios que se entregarán:
+     Beneficios :
 
      Tipo de contrato:
 
@@ -32,11 +32,9 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
 
      Perfil Requerido:
 
-     Fechas estimadas:
+     Tiempo del proyecto:
      
-     Remoto/Presencial:
-     
-     Renta ofrecida por proyecto/por hora (aproximación):
+     Modalidad:
 
      Descripcion del proyecto :
 

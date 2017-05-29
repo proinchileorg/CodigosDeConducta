@@ -37,8 +37,9 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
      Modalidad:
 
      Descripcion del proyecto :
-
+     
 Nota:
 
 > Sueldo es obligatorio ya sea un rango o un aproximado.
+> Para "cotizaciones" (de app, páginas web, apps webs, etc) se debe incluir un presupuesto.
 > Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://www.programadores.cl).

@@ -7,7 +7,7 @@ En conjunto, los miembros de la comunidad ProinChile hemos creado las pautas par
 
 El #OfertasProinChile nos sirve de manera analitica ya que regularmente compartimos las ofertas en otros medios, como linkedin, fanpage, twitter, slack, entre otros.
 
-**Pauta de Oferta Laboral (presencial, tiempo completo, medio tiempo) **
+**Pauta de Oferta Laboral (presencial, tiempo completo, medio tiempo)**
 
      Nombre empresa:
 
@@ -28,7 +28,7 @@ El #OfertasProinChile nos sirve de manera analitica ya que regularmente comparti
      Tipo de contrato:
 
 
-**Pauta de Oferta Laboral Freelance **
+**Pauta de Oferta Laboral Freelance**
 
      Nombre empresa:
 

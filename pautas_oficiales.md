@@ -53,8 +53,8 @@ El #OfertasProinChile nos sirve de manera analitica ya que regularmente comparti
 
 **Pauta de Cotización**
 
-     Descripción del Proyecto :
-
+     Descripción del Proyecto :
+     
      Tiempo limite :
      
      Estado actual del proyecto :  

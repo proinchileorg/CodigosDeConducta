@@ -1,11 +1,13 @@
-Se debe usar la siguiente pauta
+Pauta Oficial para ofertas laborales
 ======
 
-**Publicaciones sobre Ofertas de Empleo**:
+En conjunto, los miembros de la comunidad ProinChile hemos creado las pautas para ofertas laborales, esto para obtener una mayor transparencia por parte de las empresas hacia nuestro rubro u profesión.
 
-Para poder llevar un orden en este tema y que se pueda contar con la mayor cantidad de datos, se debe utilizar en cada publicación de este tipo la siguiente pauta:
+**Favor usar #OfertasProinChile**:
 
-**Pauta de Oferta Laboral Contrato Empresa**
+El #OfertasProinChile nos sirve de manera analitica ya que regularmente compartimos las ofertas en otros medios, como linkedin, fanpage, twitter, slack, entre otros.
+
+**Pauta de Oferta Laboral (presencial, tiempo completo, medio tiempo) **
 
      Nombre empresa:
 
@@ -26,7 +28,7 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
      Tipo de contrato:
 
 
-**Pauta de Oferta Laboral Freelance**
+**Pauta de Oferta Laboral Freelance **
 
      Nombre empresa:
 
@@ -38,8 +40,30 @@ Para poder llevar un orden en este tema y que se pueda contar con la mayor canti
 
      Descripcion del proyecto :
      
-Nota:
+     
+**Pauta de Busqueda de Socio**
 
-> Sueldo es obligatorio ya sea un rango o un aproximado.
+     Nombre empresa / proyecto:
+
+     Perfil Requerido:
+
+     Oferta:
+     
+     Estado actual del proyecto o empresa:     
+
+**Pauta de Cotización**
+
+     Descripción del Proyecto :
+
+     Tiempo limite :
+     
+     Estado actual del proyecto :  
+     
+     Presupuesto aproximado :
+     
+
+Nota:
+> Busqueda de socio, Oferta hace referencia al porcentaje % de la empresa u otras acciones.
+> Sueldo es obligatorio ya sea un rango o un aproximado (freelance, contrato).
 > Para "cotizaciones" (de app, páginas web, apps webs, etc) se debe incluir un presupuesto.
 > Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://www.programadores.cl).

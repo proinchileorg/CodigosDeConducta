@@ -27,6 +27,9 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
  5.  Publicación con SPAM o post repetidos existiendo el anterior, publicaciones alusivas a otros grupos si éstas no aportan a la comunidad.
 	 - Se considera SPAM publicaciones que pueden cumplir o no las normas pero son publicadas más de 1 vez en 24 horas de forma insistente
 	 - Promociones, concursos, eventos, encuestas sin un beneficio directo a la comunidad o sus miembros.
+	 
+ 6.  Las ofertas laborales que cumplan con la pauta se le desactivaran los comentarios(el mismo autor o los moderadores/admin del grupo) para evitar conflictos innecesarios. Si es de interés la oferta y si existen dudas deberan ser enviadas al correo indicado en la pauta.
+	 
 
 
 

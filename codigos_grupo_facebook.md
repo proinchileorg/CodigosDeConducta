@@ -16,9 +16,9 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
 
  3.  Se prohíben estrictamente, y pueden ser borrada sin previo aviso, publicaciones de los tipos:
 	  - Ventas, subastas o pedidos de compra de productos variados.
- 	 - Publicaciones fuera del ámbito de la programación, la tecnología y la informática.
-	  -  Publicaciones solicitando o compartiendo información protegida por derechos de autor.
-	  - Publicaciones de enlaces externos como blog, sitios web o foros, siempre y cuando éstos solo sean link sin argumentación del porqué se comparte el contenido, invitación a un debate, conversación o acceso a recursos ilegales.
+ 	  - Publicaciones fuera del ámbito de la programación, la tecnología y la informática.
+	  - Publicaciones solicitando o compartiendo información protegida por derechos de autor.
+	  - Publicaciones de enlaces externos como blog, sitios web o foros, siempre y cuando éstos solo sean link sin argumentación del porqué se comparte el contenido, invitación a un debate, conversación o acceso a recursos ilegales.
 
  4.  Publicaciones que si son aceptadas:
 	 - Noticias sobre informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.

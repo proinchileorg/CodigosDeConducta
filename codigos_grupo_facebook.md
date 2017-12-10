@@ -19,7 +19,9 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
  	  - Publicaciones fuera del ámbito de la programación, la tecnología y la informática.
 	  - Publicaciones solicitando o compartiendo información protegida por derechos de autor.
 	  - Publicaciones de enlaces externos como blog, sitios web o foros, siempre y cuando estos sean solo links sin argumentación de porque se comparte el contenido o lleve a recursos ilegales.
-	  - Publicaciones sin contenido, en donde se solicite ayuda u orientación por "inbox" (mensaje privado), la comunidad se basa en contribuciones de conocimiento para todo aquel que pertenezca a ella, de forma pública.
+	  - Publicaciones con baja calidad de contenido o sin contenido.
+	  - Publicaciones en donde se solicite ayuda u orientación por "inbox" (mensaje privado). La comunidad se basa en contribuciones de conocimiento para todo aquel que pertenezca a ella, por tanto la conversación debe ser desarrollada de forma pública. De esta manera las soluciones puede ser utilizadas por otro miembro en el futuro.
+	  - Tomas de pantalla que sean ilegibles o imágenes que sean difíciles de interpretar tampoco son bienvenidas.
 
  4.  Publicaciones que si son aceptadas:
 	 - Noticias sobre informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.

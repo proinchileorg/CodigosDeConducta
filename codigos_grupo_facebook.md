@@ -24,7 +24,7 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
 	  - Tomas de pantalla que sean ilegibles o imágenes que sean difíciles de interpretar tampoco son bienvenidas.
 
  4.  Publicaciones que si son aceptadas:
-	 - Noticias sobre informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.
+	 - Noticias, artículos o tutoriales sobre temas de informática, programación, tecnología, apps y aquellas que inviten al debate y opinión.
 	 - Links de blogs/canales de YouTube/website personales de miembros de la comunidad, que cumplan igualmente con el punto anterior y el general de las reglas de temáticas de la comunidad.
 	 
  5.  Serán eliminadas, sin previo aviso, publicaciones con SPAM o post repetidos (existiendo el anterior) y publicaciones alusivas a otros grupos, si éstas no aportan a la comunidad.

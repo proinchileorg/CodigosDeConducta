@@ -19,7 +19,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Perfil Requerido:
 
-     Rango de renta ofrecida liquida (aproximación):
+     Rango de renta ofrecida (aproximación, debe ser líquido):
 
      Horario:
 
@@ -71,7 +71,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 Notas:
 > Para "Búsqueda de socio", "Oferta" hace referencia al porcentaje % de la empresa u otras acciones.
 
-> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto.
+> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
 
 > Para "cotizaciones" (de app, páginas web, apps webs, etc), se debe incluir un presupuesto.
 

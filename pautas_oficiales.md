@@ -19,7 +19,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Perfil Requerido:
 
-     Rango de renta ofrecida (aproximación):
+     Rango de renta ofrecida liquida (aproximación):
 
      Horario:
 

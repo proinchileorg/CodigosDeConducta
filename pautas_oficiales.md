@@ -76,7 +76,6 @@ Notas:
 > La exigencia de monto líquido debe ser escrita en pesos chilenos (CLP), excepto aquellas en que el lugar de desempeño sea en el extranjero, caso en el que deberá escribirse el monto líquido de la moneda local.
 
 > "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
-> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
 
 > Para "cotizaciones" (de app, páginas web, apps webs, etc), se debe incluir un presupuesto.
 

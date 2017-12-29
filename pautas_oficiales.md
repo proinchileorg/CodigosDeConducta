@@ -19,7 +19,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Perfil Requerido:
 
-     Rango de renta ofrecida liquida (aproximación):
+     Rango de renta ofrecida liquida (aproximación, en peso chileno):
 
      Horario:
 
@@ -40,11 +40,11 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Tiempo del proyecto:
      
-     Presupuesto:
+     Presupuesto (en peso chileno):
      
      Modalidad:
 
-     Descripcion del proyecto :
+     Descripcion del proyecto:
      
      
 **Pauta de Busqueda de Socio**
@@ -59,19 +59,19 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
 **Pauta de Cotización**
 
-     Descripción del Proyecto :
+     Descripción del Proyecto:
      
-     Tiempo limite :
+     Tiempo limite:
      
-     Estado actual del proyecto :  
+     Estado actual del proyecto:  
      
-     Presupuesto aproximado :
+     Presupuesto aproximado (en peso chileno):
      
 
 Notas:
 > Para "Búsqueda de socio", "Oferta" hace referencia al porcentaje % de la empresa u otras acciones.
 
-> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto.
+> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido en pesos chilenos.
 
 > Para "cotizaciones" (de app, páginas web, apps webs, etc), se debe incluir un presupuesto.
 

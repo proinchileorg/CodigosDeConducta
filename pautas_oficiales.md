@@ -19,7 +19,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Perfil Requerido:
 
-     Rango de renta ofrecida liquida (aproximación, en peso chileno):
+     Rango de renta ofrecida liquida (aproximación):
 
      Horario:
 
@@ -40,7 +40,7 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Tiempo del proyecto:
      
-     Presupuesto (en peso chileno):
+     Presupuesto:
      
      Modalidad:
 
@@ -65,13 +65,18 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
      
      Estado actual del proyecto:  
      
-     Presupuesto aproximado (en peso chileno):
+     Presupuesto aproximado:
      
 
 Notas:
 > Para "Búsqueda de socio", "Oferta" hace referencia al porcentaje % de la empresa u otras acciones.
 
-> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido en pesos chilenos.
+> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
+
+> La exigencia de monto líquido debe ser escrita en pesos chilenos (CLP), excepto aquellas en que el lugar de desempeño sea en el extranjero, caso en el que deberá escribirse el monto líquido de la moneda local.
+
+> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
+> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
 
 > Para "cotizaciones" (de app, páginas web, apps webs, etc), se debe incluir un presupuesto.
 

@@ -30,6 +30,8 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
      Beneficios :
 
      Tipo de contrato:
+     
+     Datos de contacto (nombre, e-mail y/o teléfono):
 
 
 **Pauta de Oferta Laboral Freelance**
@@ -46,10 +48,14 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
      Descripcion del proyecto:
      
+     Datos de contacto (nombre, e-mail y/o teléfono):
+     
      
 **Pauta de Busqueda de Socio**
 
      Nombre empresa / proyecto:
+     
+     Datos de contacto (nombre, e-mail y/o teléfono):
 
      Perfil Requerido:
 
@@ -67,6 +73,8 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
      
      Presupuesto aproximado:
      
+     Datos de contacto (nombre, e-mail y/o teléfono):
+     
 
 Notas:
 > Para "Búsqueda de socio", "Oferta" hace referencia al porcentaje % de la empresa u otras acciones.
@@ -78,5 +86,7 @@ Notas:
 > "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
 
 > Para "cotizaciones" (de app, páginas web, apps webs, etc), se debe incluir un presupuesto.
+
+> "Datos de contacto" requiere que se especifique, obligatoriamente, el nombre de la persona. Además, es obligatorio una dirección de correo electrónico o teléfono (idealmente ambos, pero con uno es aceptable).
 
 > Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://www.programadores.cl).

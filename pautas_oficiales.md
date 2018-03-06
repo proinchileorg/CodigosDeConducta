@@ -83,8 +83,6 @@ Notas:
 
 > La exigencia de monto líquido debe ser escrita en pesos chilenos (CLP), excepto aquellas en que el lugar de desempeño sea en el extranjero, caso en el que deberá escribirse el monto líquido de la moneda local.
 
-> "Sueldo"/"Presupuesto" es obligatorio, ya sea un rango o un aproximado (freelance, contrato). Frases como "a convenir", "a evaluar", etc. sin un rango de dinero no son aceptables, debe haber un monto líquido.
-
 > Todo lo que especifique "Horario" debe incluir el detalle de la jornada. "Part time", "Full time" o similares no son aceptables. Debe especificarse correctamente los horarios, por ejemplo: Lu-Ju 09:00 a 18:00 hrs., Vi 09:00 a 15:00 hrs.
 
 > Para "cotizaciones" (de app, páginas web, apps webs, etc), se debe incluir un presupuesto.

@@ -15,8 +15,9 @@ Este manual de conducta fue diseñado para entregar una estructura básica, con 
 	  - http://codeshare.io/
 
  3.  Se prohíben estrictamente, y pueden ser borrada sin previo aviso, publicaciones de los tipos:
-	  - Ventas, subastas o pedidos de compra de productos variados.
- 	  - Publicaciones fuera del ámbito de la programación, la tecnología y la informática.
+	  
+	  - Ventas, subastas o pedidos de compra de productos variados, esto incluye paquetes de software y, en general, cualquier tipo de producto o servicio. Solo se permitirá la publicación de ofertas laborales, proyectos o cotizaciones, siempre que llenen la respectiva [pauta completa de nuestra comunidad](pautas_oficiales.md).
+	  - Publicaciones fuera del ámbito de la programación, la tecnología y la informática.
 	  - Publicaciones solicitando o compartiendo información protegida por derechos de autor.
 	  - Publicaciones de enlaces externos como blog, sitios web o foros, siempre y cuando estos sean solo links sin argumentación de porque se comparte el contenido o lleve a recursos ilegales.
 	  - Publicaciones con baja calidad de contenido o sin contenido.

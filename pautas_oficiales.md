@@ -13,67 +13,67 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
 
 **Pauta de Oferta Laboral (presencial, tiempo completo, medio tiempo)**
 
-     Nombre empresa:
+     Nombre empresa: (nombre de la empresa o agencia reclutadora; solo para reclutadores es permitido "Nombre agencia. Para nuestro cliente del rubro X"
 
-     Puesto Ofrecido:
+     Puesto Ofrecido: (nombre del cargo)
 
-     Perfil Requerido:
+     Perfil Requerido: (tecnologías o experiencia, etc., ej: Java nivel medio, C# nivel avanzado, al menos 1 año trabajando en células ágiles)
 
-     Rango de renta ofrecida liquida (aproximación):
+     Rango de renta ofrecida liquida (aproximación): (debe llevar un monto o rango, ej: entre 1 y 1.5 millones)
 
-     Horario:
+     Horario: (formato Lu-Vi de X a Y hrs.)
 
-     Ubicación:
+     Ubicación: (al menos comuna, mientras más específico, mejor)
      
      Remoto/Presencial:
 
-     Beneficios :
+     Beneficios: (si no hay, especificar "ninguno". "buen ambiente laboral" no es beneficio)
 
-     Tipo de contrato:
+     Tipo de contrato: (plazo fijo debe llevar tiempo, puede ser más de uno. ej: plazo fijo 3 meses, luego indefinido)
      
-     Datos de contacto (nombre, e-mail y/o teléfono):
+     Datos de contacto (nombre, e-mail y/o teléfono): (ej: Pablo Pérez pperez@empresa.cl (+569)11112222)
 
 
 **Pauta de Oferta Laboral Freelance**
 
-     Nombre empresa:
+     Nombre empresa: (nombre de la empresa o agencia reclutadora; solo para reclutadores es permitido "Nombre agencia. Para nuestro cliente del rubro X"
 
-     Perfil Requerido:
+     Perfil Requerido: (tecnologías o experiencia, etc., ej: Java nivel medio, C# nivel avanzado, al menos 1 año trabajando en células ágiles)
 
-     Tiempo del proyecto:
+     Tiempo del proyecto: (duración del proyecto, ej: 24 meses)
      
-     Presupuesto:
+     Presupuesto: (debe llevar un monto)
      
-     Modalidad:
+     Modalidad: (presencial, remoto, presencial+remoto; en caso de requerir presencial, se debe especificar número de horas a la semana)
 
-     Descripcion del proyecto:
+     Descripcion del proyecto: (qué debe hacer el proyecto, qué ya hay hecho, qué problema resuelve, etc.)
      
-     Datos de contacto (nombre, e-mail y/o teléfono):
+     Datos de contacto (nombre, e-mail y/o teléfono): (ej: Pablo Pérez pperez@empresa.cl (+569)11112222)
      
      
 **Pauta de Busqueda de Socio**
 
-     Nombre empresa / proyecto:
+     Nombre empresa / proyecto: (nombre de la empresa o del proyecto en particular)
      
-     Datos de contacto (nombre, e-mail y/o teléfono):
+     Datos de contacto (nombre, e-mail y/o teléfono): (ej: Pablo Pérez pperez@empresa.cl (+569)11112222)
 
-     Perfil Requerido:
+     Perfil Requerido: (tecnologías o experiencia, etc., ej: Java nivel medio, C# nivel avanzado, al menos 1 año trabajando en células ágiles)
 
-     Oferta:
+     Oferta: (debe llevar porcentaje de acciones/equity)
      
-     Estado actual del proyecto o empresa:     
+     Estado actual del proyecto o empresa: (ej: "en etapa de diseño"; "llevamos 10% desarrollo"; "estamos formando la sociedad"; otros)
 
 **Pauta de Cotización**
 
-     Descripción del Proyecto:
+     Descripción del Proyecto: (qué debe hacer el proyecto, qué ya hay hecho, qué problema resuelve, etc.)
      
-     Tiempo limite:
+     Tiempo limite: (ej: máximo 2 meses)
      
-     Estado actual del proyecto:  
+     Estado actual del proyecto: (ej: "en etapa de diseño"; "llevamos 10% desarrollo"; otros)
      
-     Presupuesto aproximado:
+     Presupuesto aproximado: (debe llevar un monto o rango, lo que se estima que se va a pagar)
      
-     Datos de contacto (nombre, e-mail y/o teléfono):
+     Datos de contacto (nombre, e-mail y/o teléfono): (ej: Pablo Pérez pperez@empresa.cl (+569)11112222)
      
 
 Notas:

@@ -13,6 +13,10 @@ Este punto es muy importante, quizas no de forma intencional tu oferta no se aju
 
 Para miembros que emiten criticas destructivas e insultos, seran sancionados según las reglas correspondientes.
 
+**Actualización y RE-POST**
+
+Si quieres volver a destacar tu oferta laboral deberás comentar el post con algun "UP" o "Seguimos buscando" solo una vez cada 24 horas. Además si publicas 2 veces el mismo post/oferta se considera SPAM y se borran tus post de los ultimos 7 días.
+
 **Leer notas al final de este documento**
 
 Por favor, antes de publicar, lea las notas al final de este documento, donde se explican algunos campos y la **obligatoriedad** de algunos.

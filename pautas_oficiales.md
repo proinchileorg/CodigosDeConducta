@@ -7,6 +7,12 @@ En conjunto, los miembros de la comunidad ProinChile hemos creado las pautas par
 
 El #OfertasProinChile nos sirve de manera analítica, ya que, regularmente, compartimos las ofertas en otros medios, como LinkedIn, fanpage, Twitter y Slack, entre otros.
 
+**Debes estar dispuesto a recibir criticas**
+
+Este punto es muy importante, quizas no de forma intencional tu oferta no se ajusta a la realidad del ecosistema pero siempre y cuando sea de forma respetuosa y critica los miembros podrán comentar y debatir sobre oferta, no puedes silenciar los comentarios.
+
+Para miembros que emiten criticas destructivas e insultos, seran sancionados según las reglas correspondientes.
+
 **Leer notas al final de este documento**
 
 Por favor, antes de publicar, lea las notas al final de este documento, donde se explican algunos campos y la **obligatoriedad** de algunos.

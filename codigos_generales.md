@@ -6,7 +6,9 @@ A. Reglas y normas generales
 
 B. Sobre propiedad intelectual
 
-C. Sobre contenido 
+C. Distribución de vídeos, blog y material propio
+
+D. Eventos, workshop, cursos y otros, de terceros.
 
 
 A- Reglas y Normas generales
@@ -40,4 +42,10 @@ C - Distribución de vídeos, blog y material propio
  2. En vídeos de youtube, facebook o plataformas audiovisuales debe indicarse visual y de forma narrada una mención e invitación a la comunidad junto con una imagen del logo o la web.
  3. En blog y plataformas digitales escritas, debe ir una mención con una invitación a la comunidad, sea su grupo, slack, sitio web o instagram.
 
-	 
+
+D - Eventos, workshop, cursos y otros, de terceros.
+------------------------- 
+
+ 1. Cualquier evento, charla, taller, curso, workshop, clase, etc., debe ir con un beneficio directo a la comunidad y sus miembros.
+ 2. Por beneficio podemos dar los ejemplos de: descuento en entradas, en valores, en cupos, etc.
+ 3. Querer sortear y regalar entradas es un considerado apto, pero debe ser cordinado con el staff.

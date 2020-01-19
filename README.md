@@ -1,4 +1,4 @@
-Normas y Pautas
+Normas y Pautas: Actualización 2020 en progreso
 ======================
 
 ----------
@@ -22,4 +22,5 @@ Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://ww
 
  1. Unete a nuestro [Grupo de Facebook](https://www.facebook.com/groups/ProgramadoresCL/)
  2. Danos tu apoyo en nuestra [Fan Page](https://www.facebook.com/proinchile)
- 2. Síguenos en nuestro [Twitter](https://twitter.com/proin_chile)
+ 3. Síguenos en nuestro [Twitter](https://twitter.com/proin_chile)
+ 4. Síguenos en nuestro [Instagram](https://www.instagram.com/proin_chile)

@@ -94,7 +94,9 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
      Descripción de mi especialidad: "Soy backend developer en Python" "Junior en .net" "Dev Senior en JAVA"
      
      Tipo de trabajo que busco: "Freelance", "Full-time", "Part-time", "Practica"
-     
+
+     Ciudad: "Santiago, Viña, Concepción" o bien puede ser "Remoto"
+ 
      Breve descripción de tecnologías y conocimientos: "Java nivel medio, C# nivel avanzado, 1 año trabajando en células ágiles"
      
      Link de Portafolio: "www.github.com/proinchile" "www.proinchile.org"

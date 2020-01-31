@@ -86,6 +86,24 @@ Por favor, antes de publicar, lea las notas al final de este documento, donde se
      Datos de contacto (nombre, e-mail y/o teléfono): (ej: Pablo Pérez pperez@empresa.cl (+569)11112222)
      
 
+
+**Pauta de busqueda para #viernesdepega**
+
+     #viernesdepega
+
+     Descripción de mi especialidad: "Soy backend developer en Python" "Junior en .net" "Dev Senior en JAVA"
+     
+     Tipo de trabajo que busco: "Freelance", "Full-time", "Part-time", "Practica"
+     
+     Breve descripción de tecnologías y conocimientos: "Java nivel medio, C# nivel avanzado, 1 año trabajando en células ágiles"
+     
+     Link de Portafolio: "www.github.com/proinchile" "www.proinchile.org"
+
+     Link CV: Url de dropbox, drive, etc. // Aconsejable subirlo por feedback y para agilizar a personas interesadas el contacto.
+
+     Datos de contacto (nombre, e-mail y/o teléfono): (ej: Pablo Pérez user@persona.cl (+569)11112222)
+
+
 Notas:
 > Para "Búsqueda de socio", "Oferta" hace referencia al porcentaje % de la empresa u otras acciones.
 

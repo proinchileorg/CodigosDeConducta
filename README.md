@@ -25,6 +25,6 @@ Pauta entregada por la comunidad [Programadores e Informáticos Chile](http://ww
 
  1. Únete a nuestro [Grupo de Facebook](https://www.facebook.com/groups/proinchile)
  2. Danos tu apoyo en nuestra [Fan Page](https://www.facebook.com/proinchile)
- 3. Únete a nuestro [Discord](https://discord.gg/8j2QZYZd7p)
+ 3. Únete a nuestro [Discord](https://www.proinchile.org/discord/)
  4. Síguenos en nuestro [Twitter](https://twitter.com/proinchileorg)
  5. Síguenos en nuestro [Instagram](https://www.instagram.com/proinchileorg)
